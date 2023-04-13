@@ -1,0 +1,5 @@
+Bronze_statue 0 0
+Truth_bell 1 1
+small_man 2 2
+library 3 3
+other 4 4
